@@ -61,6 +61,12 @@ header {
     min-height: 100vh;
     background: #2B3F58;
 }
+.visibile {
+    display: block;
+}
+.invisibile {
+    display: none;
+}
 .hamburger-menu ul {
     display: flex;
     height: 100%;
